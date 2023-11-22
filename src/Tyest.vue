@@ -6,7 +6,7 @@ import axios from "axios";
 
 const key = {
   naverClientId: "uCoS8KzKduaXBhiQWA35",
-  callbackUrl: "http://localhost:80/",
+  callbackUrl: "http://54.163.14.242:80/",
   state: "test",
 };
 
